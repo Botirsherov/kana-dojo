@@ -30,8 +30,10 @@
     "file": "docs/community-notes/workflow-snippets.md",
     "position": "top",
     "text": "_Community note: this markdown file is safe for tiny redundant edits._",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "ArushKhasru",
+    "completedPR": 20573
   },
   {
     "id": 5,
